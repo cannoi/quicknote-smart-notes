@@ -1,0 +1,17 @@
+{
+  "name": "quicknote-smart-notes",
+  "version": "2.0.2",
+  "description": "QUICKNOTE — SMART NOTES: Premium note-taking and task management",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "uuid": "^11.0.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

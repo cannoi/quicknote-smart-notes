@@ -1,0 +1,7 @@
+title: "QuickNote"
+eyebrow: SoloHost App
+description: "Premium smart notes with rich editor, categories, tags, and SQLite persistence. Capture ideas, manage tasks, and stay organized across devices."
+footer_hint: "Only enter required secrets. Other settings use app defaults."
+output_file: .env
+after_save: "Settings saved. Start the app from SoloHost."
+fields: []
