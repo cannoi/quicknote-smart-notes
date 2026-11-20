@@ -1,0 +1,7 @@
+title: "QuickNote"
+eyebrow: SoloHost App
+description: "Create an app for me called QUICKNOTE — SMART NOTES: Take notes, manage tasks, and save ideas across all devices."
+footer_hint: "Only enter required secrets (at most 2). Other settings use safe defaults."
+output_file: .env
+after_save: "Settings saved. Start the app from SoloHost."
+fields: []
